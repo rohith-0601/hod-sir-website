@@ -14,7 +14,10 @@ export default function useContent(endpoint = "getContent.php") {
     setLoading(true);
     setError(null);
 
-    fetch(`${API_BASE}/${endpoint}`)   // ✅ fixed path
+    const controller = new AbortController();
+    const timeout = setTimeout(() => controller.abort(), 10000); // 10s timeout
+
+    fetch(`${API_BASE}/${endpoint}`, { signal: controller.signal })
       .then((res) => {
         if (!res.ok) throw new Error("Failed to load content");
         return res.json();
@@ -24,9 +27,16 @@ export default function useContent(endpoint = "getContent.php") {
         setLoading(false);
       })
       .catch((err) => {
-        setError(err.message);
+        if (err.name === "AbortError") {
+          setError("Backend is unreachable. Please try again later.");
+        } else {
+          setError(err.message);
+        }
         setLoading(false);
-      });
+      })
+      .finally(() => clearTimeout(timeout));
+
+    return () => { controller.abort(); clearTimeout(timeout); };
   }, [endpoint]);
 
   return { content, loading, error };
