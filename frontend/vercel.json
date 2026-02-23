@@ -3,6 +3,10 @@
         {
             "source": "/api/:path*",
             "destination": "https://digvijay.xo.je/api/:path*"
+        },
+        {
+            "source": "/uploads/:path*",
+            "destination": "https://digvijay.xo.je/uploads/:path*"
         }
     ]
 }

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 
-const API_BASE = "";
+const API_BASE = "/api";
 // ✅ fixed
 
 export default function useContent(endpoint = "getContent.php") {
