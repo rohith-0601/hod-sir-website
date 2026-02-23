@@ -74,7 +74,7 @@ const ResearchPanel = ({ research }) => {
             {interests.map((item, i) => (
               <div key={i} className="interest-img-card">
                 <img src={`${API_BASE}${item.image}`} alt={item.title}
-                  onError={(e) => { e.target.onerror = null; e.target.src = "https://via.placeholder.com/300?text=Research"; }} />
+                  onError={(e) => { e.target.onerror = null; e.target.src = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Crect width='300' height='300' fill='%23e0e0e0'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23999' font-size='14'%3ENo Image%3C/text%3E%3C/svg%3E"; }} />
                 <div className="interest-img-label">{item.title}</div>
               </div>
             ))}
@@ -236,7 +236,7 @@ const TeamPanel = ({ research }) => {
                   src={`${API_BASE}${s.image}`}
                   alt={s.name}
                   className="team-photo"
-                  onError={(e) => { e.target.onerror = null; e.target.src = "https://via.placeholder.com/200?text=👤"; }}
+                  onError={(e) => { e.target.onerror = null; e.target.src = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Crect width='200' height='200' fill='%23e0e0e0'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23999' font-size='32'%3E👤%3C/text%3E%3C/svg%3E"; }}
                 />
               </div>
               <div className="team-info">
