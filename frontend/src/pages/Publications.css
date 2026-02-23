@@ -1,0 +1,129 @@
+/* Publications.css — page-specific. Theme vars from Home.css */
+
+/* Publication entry */
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--divider);
+}
+
+.pub-entry:last-child {
+  border-bottom: none;
+}
+
+.pub-year-badge {
+  flex-shrink: 0;
+  background: var(--a-soft);
+  color: var(--p);
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 0.75rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  min-width: 48px;
+  text-align: center;
+  margin-top: 2px;
+}
+
+.pub-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.pub-title {
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 4px;
+  line-height: 1.45;
+}
+
+.pub-authors {
+  font-size: 0.8rem;
+  color: var(--ink2);
+  margin-bottom: 5px;
+}
+
+.pub-meta-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.78rem;
+}
+
+.pub-journal {
+  font-style: italic;
+  color: var(--ink2);
+  font-weight: 500;
+}
+
+.pub-detail {
+  color: var(--ink3);
+}
+
+.doi-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 3px;
+  background: var(--pill-bg);
+  color: var(--pill-fg);
+  padding: 2px 9px;
+  border-radius: 20px;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+
+.doi-link:hover {
+  background: var(--p);
+  color: #fff;
+}
+
+/* Invited talk entry */
+.talk-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--divider);
+}
+
+.talk-entry:last-child {
+  border-bottom: none;
+}
+
+.talk-year {
+  flex-shrink: 0;
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: var(--a);
+  min-width: 48px;
+  padding-top: 3px;
+}
+
+.talk-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.talk-title {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: var(--ink);
+  margin-bottom: 3px;
+}
+
+.talk-event {
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--ink2);
+}
+
+.talk-inst {
+  font-size: 0.78rem;
+  color: var(--ink3);
+}

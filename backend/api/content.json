@@ -1,0 +1,1228 @@
+{
+    "header": {
+        "name": "Dr. Digvijay S. Pawar",
+        "subname": "\u0921\u0949. \u0926\u093f\u0917\u094d\u0935\u093f\u091c\u092f \u090f\u0938. \u092a\u0935\u093e\u0930",
+        "designation": "Associate Professor",
+        "institute": "Indian Institute of Technology Hyderabad",
+        "phone": "+91 (0)40 2301 6314",
+        "email": "dspawar@ce.iith.ac.in"
+    },
+    "home": {
+        "department": "Transportation Systems Engineering",
+        "faculty": "Department of Civil Engineering, IIT Hyderabad",
+        "briefBioTitle": "Brief Bio-Data",
+        "briefBio": "Digvijay Sampatrao Pawar is an HOD in Transportation Systems Engineering in the Department of Civil Engineering, IIT Hyderabad. Prior to joining IITH in 2016, Digvijay was a senior research associate in IIT Bombay from 2015. He received his Masters and Doctoral Degree in Transportation Systems Engineering from IIT Bombay, India in 2015. He completed his Bachelors in Civil Engineering from Walchand College of Engineering, Sangli, India in 2009. His research predominantly focuses on traffic operations and safety, human factors and highway geometric design with emphasis on Intelligent Transportation Systems (ITS) and Naturalistic Driving Studies (NDS). His contributions in developing Intelligent Transportation Systems (ITS) for improving driver and pedestrian safety at uncontrolled intersections are noteworthy. He has played a key role in designing and implementing several ITS technologies and establishing testbed at IITH for studies on autonomous vehicle systems (TiHAN). He received the Research Excellence Award from IIT Hyderabad for his significant research contributions in the field. He was awarded for Excellence in Thesis Work for outstanding research contributions from IIT Bombay (2014\u20132016) and Best Ph.D. Thesis on Urban Mobility in Cities of Developing Countries from CODATU-2017, France. He was selected as a young conference chair for the World Conference on Transport Research 2019 (WCTR-Y). His research articles have appeared in leading international journals.",
+        "socialNote": "Join me for traffic science conversation @ traffic_bytes",
+        "researchInterests": [
+            "Intelligent Transportation Systems",
+            "Traffic Safety and Accident Analysis",
+            "Geometric Design, Naturalistic Driving Study and Human Factors",
+            "Traffic Operation and Simulation"
+        ],
+        "honours": [
+            "Research Excellence Award-2025, IIT Hyderabad",
+            "Networking Grant Award \u2013 The Academy of Medical Sciences (UK)",
+            "CODATU-2017 Best Ph.D Thesis Award (France)",
+            "Excellence in Thesis Work Award (IIT Bombay, 2014\u20132016)",
+            "WCTR 2019 Young Conference Chair",
+            "Member \u2013 TRB Standing Committee ABE90 (USA)",
+            "Life Member \u2013 Institute of Urban Transport (India)",
+            "Life Member \u2013 Indian Roads Congress (IRC)",
+            "Member \u2013 EASTS",
+            "Member \u2013 WCTRS"
+        ],
+        "positions": [
+            "Faculty In-charge NCC (2022\u2013Present)",
+            "DPGC Member (2024\u2013Present)",
+            "DUGC Convenor (2019\u20132021)",
+            "DPGC Member (2017\u20132020)",
+            "DUGC Member (2021\u20132022)",
+            "Department Timetable Coordinator (2017\u20132020)",
+            "Faculty In-charge NSS (2020\u20132022)",
+            "Faculty In-charge MILAN-2020",
+            "Faculty In-charge Security (2019)",
+            "Sunshine Coordinator \u2013 Dept. of Civil Engineering (2019\u20132023)"
+        ],
+        "contact": {
+            "lab": "Transportation Systems Engineering Lab",
+            "office": "Office No. 418, Department of Civil Engineering",
+            "address": "IIT Hyderabad, Kandi, Sangareddy-502285, Telangana, India",
+            "phone": "+91 (0)40 2301 6314",
+            "email": "dspawar@ce.iith.ac.in",
+            "webpage": "http://www.iith.ac.in/~dspawar/"
+        }
+    },
+    "teaching": {
+        "ug": [
+            "CE3820 Highway Design and Materials",
+            "CE3830 Railway and Airport Engineering",
+            "CE3840 Traffic Engineering and Planning",
+            "CE3841 Traffic Engineering Lab",
+            "CE3821 Highway Materials Lab",
+            "CE3020 Surveying"
+        ],
+        "pg": [
+            "CE6750 Traffic Management and Design",
+            "CE6710 Advanced Traffic Engineering and ITS",
+            "CE6700 Intelligent Transportation Systems",
+            "CE8993 Topics in Transportation Engineering",
+            "CC5520 Mobility, Cities and Environment",
+            "CE6711 Traffic Engineering and Studio Lab"
+        ]
+    },
+    "research": {
+        "interests": [
+            {
+                "title": "Driver and Pedestrian Behavioral Modeling",
+                "image": "/uploads/research/r1.jpg"
+            },
+            {
+                "title": "Traffic Safety and Accident Analysis",
+                "image": "/uploads/research/r2.jpg"
+            },
+            {
+                "title": "Traffic Operation and Simulation",
+                "image": "/uploads/research/r3.jpg"
+            },
+            {
+                "title": "Intelligent Transportation Systems",
+                "image": "/uploads/research/r4.jpg"
+            },
+            {
+                "title": "Statistical Modelling and Classification Techniques",
+                "image": "/uploads/research/r5.jpg"
+            },
+            {
+                "title": "Naturalistic Driving Study and Human Factors",
+                "image": "/uploads/research/r6.jpg"
+            }
+        ],
+        "projects": [
+            {
+                "title": "Comprehensive Evaluation of Human Factors and ADAS for Enhancing Driver Safety",
+                "fundedBy": "ZF India Private Limited",
+                "cost": "27.2L",
+                "status": "Ongoing",
+                "role": "PI"
+            },
+            {
+                "title": "Evaluating Effectiveness of Lane Departure Warning Systems in Distracted Driving World",
+                "fundedBy": "Academy of Medical Sciences (UK and India)",
+                "cost": "27.4L",
+                "status": "Ongoing",
+                "role": "PI"
+            },
+            {
+                "title": "Motor Vehicles (Amendment) Act-2019 Assessment Study Across Maharashtra",
+                "fundedBy": "IIT Bombay, India",
+                "cost": "7.5L",
+                "status": "Ongoing",
+                "role": "PI"
+            },
+            {
+                "title": "Crash Data Collection & Reconstruction in India",
+                "fundedBy": "Toyota Motor Corporation and Honda Motor Co., Ltd, Japan",
+                "cost": "27.5L",
+                "status": "Ongoing",
+                "role": "PI"
+            },
+            {
+                "title": "Proof of Concept Trial on Traffic Accident Record Software in India",
+                "fundedBy": "Toyota Motor Corporation, Japan",
+                "cost": "13L",
+                "status": "Completed",
+                "role": "PI"
+            },
+            {
+                "title": "Modeling Driver Behaviour Profiles using Naturalistic Driving Data for Road Safety Analysis",
+                "fundedBy": "Science & Engineering Research Board, India",
+                "cost": "26.6L",
+                "status": "Completed",
+                "role": "PI"
+            },
+            {
+                "title": "Multimodal Smart Transportation",
+                "fundedBy": "JICA, Japan",
+                "cost": "435L",
+                "status": "Completed",
+                "role": "Group Lead \u2013 Traffic Management & Information Provision"
+            },
+            {
+                "title": "Substract Uneasy and Dangerous Scene Related Traffic Accident and Congestion in Asia",
+                "fundedBy": "Toyota ITC, Japan",
+                "cost": "13L",
+                "status": "Completed",
+                "role": "PI"
+            },
+            {
+                "title": "Evaluation of Road Traffic Accident Data and Assessment of Potential for ITS V2X Safety Applications in India",
+                "fundedBy": "Toyota ITC, Japan",
+                "cost": "19L",
+                "status": "Completed",
+                "role": "PI"
+            },
+            {
+                "title": "Surrogate Safety Measures at Unsignalized Crossings and its Applications in V2X Technology for Asian Mixed Traffic",
+                "fundedBy": "Toyota ITC, Japan",
+                "cost": "13L",
+                "status": "Completed",
+                "role": "PI"
+            },
+            {
+                "title": "Level of Service and Level of Safety Analysis for Uncontrolled Road Intersections and Mid-block Openings using Surrogate Safety Measures",
+                "fundedBy": "Seed Grant \u2013 IIT Hyderabad",
+                "cost": "3L",
+                "status": "Completed",
+                "role": "PI"
+            }
+        ],
+        "phdStudents": [
+            {
+                "name": "Jahnavi Yarlagadda",
+                "topic": "Modeling driver behavior profiles using naturalistic driving data for road safety analysis",
+                "year": "2017\u20132023 (Graduated)",
+                "degree": "M.Tech",
+                "institution": "Indian Institute of Technology, Kharagpur",
+                "image": "/uploads/research/Jahnavi.jpg"
+            },
+            {
+                "name": "Pradhan Kumar Akinapalli",
+                "topic": "Safety Enhancement at intersections and midblock sections using surrogate safety measures",
+                "year": "2017\u20132024 (Graduated)",
+                "degree": "M.Tech",
+                "institution": "Indian Institute of Technology, Bombay",
+                "image": "/uploads/research/Pradhan.jpg"
+            },
+            {
+                "name": "Vinayak Malaghan",
+                "topic": "Driver behavior assessment based on highway geometry for rural highways",
+                "year": "2017\u20132021 (Graduated)",
+                "degree": "M.Tech",
+                "institution": "BITS, Pilani",
+                "image": "/uploads/research/Vinayak.jpg"
+            },
+            {
+                "name": "Chandrashekar C",
+                "topic": "Computation of vehicle emission and travel time prediction using ITS test bed",
+                "year": "2018\u20132024 (Graduated)",
+                "degree": "M.Tech",
+                "institution": "Visvesvaraya National Institute of Technology, Nagpur",
+                "image": "/uploads/research/Chandu.jpg"
+            },
+            {
+                "name": "Sarika Pothukuchi",
+                "topic": "Driver behavior on ramp interchanges",
+                "year": "2018\u20132025 (Graduated)",
+                "degree": "M.Tech",
+                "institution": "University of Texas, Arlington",
+                "image": "/uploads/research/SSSS.jpg"
+            },
+            {
+                "name": "Yashasvi Rachakonda",
+                "topic": "Performance evaluation of intersection conflict warning system",
+                "year": "2020\u2013Ongoing",
+                "degree": "M.Tech",
+                "institution": "JNTU Hyderabad",
+                "image": "/uploads/research/Yash.jpg"
+            },
+            {
+                "name": "Ankit Singh",
+                "topic": "Safety impact assessment of driver assistance systems and autonomous vehicles inclusion in the Indian context",
+                "year": "2022\u2013Ongoing",
+                "degree": "M.Tech",
+                "institution": "BMS College of Engineering, Bangalore",
+                "image": "/uploads/research/Ankit.jpg"
+            },
+            {
+                "name": "Gayathri Aluwala",
+                "topic": "Car following models using NDS data",
+                "year": "2022\u2013Ongoing",
+                "degree": "M.Tech",
+                "institution": "National Institute of Technology Hamirpur",
+                "image": "/uploads/research/Gayathri.jpg"
+            },
+            {
+                "name": "Badweeti Kasi Nayana",
+                "topic": "ADAS for driver safety",
+                "year": "2022\u2013Ongoing",
+                "degree": "M.Tech",
+                "institution": "National Institute of Technology Uttarakhand",
+                "image": "/uploads/research/Kasi.jpg"
+            },
+            {
+                "name": "Anandu V G",
+                "topic": "Impact of level-2 ADAS on driving performance",
+                "year": "2024\u2013Ongoing",
+                "degree": "M.Tech",
+                "institution": "National Institute of Technology Karnataka, Surathkal",
+                "image": "/uploads/research/Anandu.jpg"
+            },
+            {
+                "name": "Amit Kumar Patel",
+                "topic": "Workzone safety for high-speed corridors",
+                "year": "2024\u2013Ongoing",
+                "degree": "B.Tech",
+                "institution": "\u2014",
+                "image": "/uploads/research/Amit.jpg"
+            }
+        ]
+    },
+    "publications": {
+        "journals": [
+            {
+                "year": 2026,
+                "authors": "Rachakonda, Y., Pawar, D. S.*",
+                "title": "Analyzing drivers visual attention towards intersection conflict warning system: A study using driving simulator and eye tracking system",
+                "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+                "volume": "118",
+                "pages": "103514",
+                "doi": "10.1016/j.trf.2026.103514"
+            },
+            {
+                "year": 2026,
+                "authors": "Singh, A., Pachamuthu, R. and Pawar, D. S.*",
+                "title": "Acceptance of autonomous shuttle among Indian users: a UTAUT model analysis",
+                "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+                "doi": "10.1016/j.trf.2025.103376"
+            },
+            {
+                "year": 2025,
+                "authors": "Singh, A., Charly, A., R. and Pawar, D. S.*",
+                "title": "Impact of lane departure warning systems in critical driving conditions among young drivers",
+                "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+                "doi": "10.1016/j.trf.2025.103333"
+            },
+            {
+                "year": 2025,
+                "authors": "Boruah, A., Pawar, D. S., Jain R., Eregowda, T., Mitra, K., and Chatterjee, P.",
+                "title": "Representative driving cycle-based framework to model indirect CO2 emissions from electric cars",
+                "journal": "Transportation Research Part D: Transport and Environment",
+                "volume": "144",
+                "pages": "104777",
+                "doi": "10.1016/j.trd.2025.104777"
+            },
+            {
+                "year": 2024,
+                "authors": "Chandrashekar, Chatterjee, P., and Pawar, D. S.*",
+                "title": "Vehicle-specific power-based emission modeling using unsupervised machine learning techniques",
+                "journal": "Environmental Science and Pollution Research",
+                "volume": "196(8)",
+                "doi": "10.1007/s11356-025-36569-z"
+            },
+            {
+                "year": 2025,
+                "authors": "Yarlagadda, J. and Pawar, D. S.*",
+                "title": "Identification of Out-of-the-normal Driving Behaviours Using Instantaneous Driving Decisions \u2013 A Case Study on Indian Drivers",
+                "journal": "IEEE Transactions on Intelligent Transportation Systems",
+                "volume": "26",
+                "issue": "4",
+                "pages": "4443\u20134456",
+                "doi": "10.1109/TITS.2025.3541093"
+            },
+            {
+                "year": 2025,
+                "authors": "Rachakonda, Y., Pawar, D. S.*",
+                "title": "Assessing Effectiveness of Intersection Conflict Warning System on Driving Performance Under Obstructed Line of Sight at Unsignalized Intersection",
+                "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+                "volume": "110",
+                "pages": "128\u2013147",
+                "doi": "10.1016/j.trf.2025.02.001"
+            },
+            {
+                "year": 2024,
+                "authors": "Chandrashekar, Chatterjee, P., and Pawar, D. S.*",
+                "title": "Comparative analysis of real-world vehicular emissions from BS-IV and BS-VI cars in India",
+                "journal": "Environmental Monitoring and Assessment",
+                "volume": "196(8)",
+                "doi": "10.1007/s10661-024-12895-6"
+            },
+            {
+                "year": 2024,
+                "authors": "Chandrashekar, Chatterjee, P., and Pawar, D. S.*",
+                "title": "Modeling real-world diesel car tailpipe emissions using regression-based approaches",
+                "journal": "Transportation Research Part D: Transport and Environment",
+                "volume": "128",
+                "pages": "104092",
+                "doi": "10.1016/j.trd.2024.104092"
+            },
+            {
+                "year": 2024,
+                "authors": "Singh, A., Srivastava, A., Pachamuthu, R. and Pawar, D. S.*",
+                "title": "Impact of Texting Induced Distraction on Driving Behavior, A Field Operation Test-Based Study",
+                "journal": "Transportation Research Record: Journal of the Transportation Research Board",
+                "doi": "10.1177/03611981241272091"
+            },
+            {
+                "year": 2024,
+                "authors": "Pavan, K., Singh, A., Igasaki, T., Pawar, D. S., and Ganapathy, N.",
+                "title": "Assessment of Driver\u2019s Stress State using smart T-shirt Textile Electrodes and Multimodal Cross-Attention Networks",
+                "journal": "IEEE Sensors Letters",
+                "volume": "8",
+                "issue": "10",
+                "doi": "10.1109/LSENS.2024.3458931"
+            },
+            {
+                "year": 2024,
+                "authors": "Pothukuchi, S. Pawar, D. S.* and Franklin, A.",
+                "title": "Modelling lateral acceleration on ramp curves for consistency based geometric design",
+                "journal": "Journal of Transportation Engineering, Part A: Systems",
+                "pages": "Accepted",
+                "doi": "10.1061/JTEPBS.TEENG-789"
+            },
+            {
+                "year": 2023,
+                "authors": "Chandrashekar, Chatterjee, P., and Pawar, D. S.*",
+                "title": "Evaluating the Real-World Emissions of Diesel Passenger Car in Indian Heterogeneous Traffic",
+                "journal": "Environmental Monitoring and Assessment",
+                "volume": "195(10)",
+                "doi": "10.1007/s10661-023-11658-z"
+            },
+            {
+                "year": 2023,
+                "authors": "Akinapalli, Pawar, D. S.* and Dia, H.",
+                "title": "Classification of motorized two-wheeler riders\u2019 acceleration and deceleration behavior through short-term naturalistic riding study",
+                "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+                "volume": "96",
+                "pages": "92-110",
+                "doi": "10.1016/j.trf.2023.06.008"
+            },
+            {
+                "year": 2023,
+                "authors": "Rachakonda, Y., Pawar, D. S.*",
+                "title": "Evaluation of Intersection Conflict Warning System at Unsignalized Intersections: A Review",
+                "journal": "Journal of Traffic and Transportation Engineering",
+                "volume": "10",
+                "issue": "4",
+                "pages": "530-547",
+                "doi": "10.1016/j.jtte.2023.04.003"
+            },
+            {
+                "year": 2023,
+                "authors": "Badweeti, K. N., Malaghan, M., Pawar, D. S.*, and Easa, S.",
+                "title": "Evaluating Effectiveness and Acceptance of ADAS using Field Operational Test",
+                "journal": "Journal of Intelligent and Connected Vehicles",
+                "pages": "1-14",
+                "doi": "10.26599/JICV.2023.9210005"
+            },
+            {
+                "year": 2023,
+                "authors": "Tsumita, N., Kikuchi, H., Vichiensan, V., Fillone, A., Tuan, A. A., Linh H T, Pawar D. S., Fukuda, A.",
+                "title": "Urban railway network expansion on transit oriented development: Improvement in accessibility in four Asian developing cities",
+                "journal": "Asian Transport Studies",
+                "volume": "9",
+                "pages": "100097",
+                "doi": "10.1016/j.eastsj.2023.100097"
+            },
+            {
+                "year": 2023,
+                "authors": "Malaghan, V., Yarlagadda, J. and Pawar, D. S.*",
+                "title": "Understanding the Operating Speed Profile Patterns Using Unsupervised Machine Learning Approach: Short-Term Naturalistic Driving Study",
+                "journal": "Journal of Transportation Engineering, Part A: Systems",
+                "volume": "149(2)",
+                "pages": "04022151",
+                "doi": "10.1061/JTEPBS.TEENG-7440"
+            },
+            {
+                "year": 2023,
+                "authors": "Rankavat, S., Gurram A. R., Pawar, D. S. and Kushwaha, V.",
+                "title": "Study of COVID-19 impact on users' perception for transport modes choice in India",
+                "journal": "IATSS Research",
+                "volume": "47(1)",
+                "pages": "73-83",
+                "doi": "10.1016/j.iatssr.2023.01.005"
+            },
+            {
+                "year": 2023,
+                "authors": "Akinapalli, Pawar, D. S.* and Dia, H.",
+                "title": "Evasive action characteristics of motorcycle riders towards occluded-surprise and expected pedestrians: A pedestrian mock-up study",
+                "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+                "volume": "90",
+                "pages": "412-424",
+                "doi": "10.1016/j.trf.2022.09.006"
+            },
+            {
+                "year": 2022,
+                "authors": "Yarlagadda, J. and Pawar, D. S.*",
+                "title": "Heterogeneity in the Driver Behavior: an Exploratory Study Using Real-time Driving Data",
+                "journal": "Journal of Advanced Transportation",
+                "volume": "2022",
+                "pages": "4509071",
+                "doi": "10.1155/2022/4509071"
+            },
+            {
+                "year": 2022,
+                "authors": "Malaghan, V. and Pawar, D. S.*",
+                "title": "A Short-Term Naturalistic Driving Study on Predicting Comfort Thresholds for Horizontal Curves on Two-Lane Rural Highways",
+                "journal": "Journal of Transportation Engineering, Part A: Systems",
+                "volume": "148(8)",
+                "pages": "04022045",
+                "doi": "10.1061/JTEPBS.0000703"
+            },
+            {
+                "year": 2022,
+                "authors": "Chandrashekar, Chatterjee, P., and Pawar, D. S.*",
+                "title": "Estimation of CO2 and CO Emissions from Auto-rickshaws in Indian heterogeneous traffic",
+                "journal": "Transportation Research Part D: Transport and Environment",
+                "volume": "104",
+                "pages": "103202",
+                "doi": "10.1016/j.trd.2022.103202"
+            },
+            {
+                "year": 2022,
+                "authors": "Akinapalli, Pawar, D. S.* and Dia, H.",
+                "title": "Evaluation of Motorized Two-wheeler Rider Responses Towards Jaywalking Pedestrians Through Mockup Control Studies for Urban Streets",
+                "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+                "volume": "84",
+                "pages": "393-406",
+                "doi": "10.1016/j.trf.2021.12.016"
+            },
+            {
+                "year": 2022,
+                "authors": "Pawar, D. S.*, Yadav, A.",
+                "title": "Modelling the Pedestrian Dilemma Zone at Uncontrolled Midblock Sections",
+                "journal": "Journal of Safety Research",
+                "volume": "80",
+                "pages": "87-96",
+                "doi": "10.1016/j.jsr.2021.11.006"
+            },
+            {
+                "year": 2021,
+                "authors": "Yarlagadda, J., Jain, P., and Pawar, D. S.*",
+                "title": "Assessing Safety Critical Driving Patterns of Heavy Passenger Vehicle Drivers Using Instrumented Vehicle Data\u2013An Unsupervised Approach",
+                "journal": "Accident Analysis & Prevention",
+                "volume": "163",
+                "pages": "106464",
+                "doi": "10.1016/j.aap.2021.106464"
+            },
+            {
+                "year": 2021,
+                "authors": "Patil, G. R., Dhore, R., Bhavathrathan, B. k., Pawar, D. S. and Sahu, P.",
+                "title": "Consumer Responses Towards Essential Purchases During COVID-19 Pan-India Lockdown",
+                "journal": "Research in Transportation Business & Management",
+                "volume": "163",
+                "pages": "100768",
+                "doi": "10.1016/j.rtbm.2021.100768"
+            },
+            {
+                "year": 2021,
+                "authors": "Pothukuchi, S. and Pawar, D. S.*",
+                "title": "Modelling Lateral Acceleration on Ramp Curves of Service Interchanges in India: An Instrumented-Vehicle Study",
+                "journal": "Journal of Transportation Engineering, Part A: Systems",
+                "volume": "147(12)",
+                "doi": "10.1061/JTEPBS.0000605"
+            },
+            {
+                "year": 2021,
+                "authors": "Chandrashekar, C., Agrawal, P., Chatterjee, P., and Pawar, D. S.*",
+                "title": "Development of E-rickshaw Driving Cycle (ERDC) Based on Micro-trip Segments Using Random Selection and K-means Clustering Techniques",
+                "journal": "IATSS Research",
+                "volume": "45(4)",
+                "pages": "551-560",
+                "doi": "10.1016/j.iatssr.2021.07.001"
+            },
+            {
+                "year": 2021,
+                "authors": "Malaghan, V., Pawar, D. S.* and Dia, H.",
+                "title": "Modeling Acceleration and Deceleration Rates for Two-Lane Rural Highways Using Global Positioning System Data",
+                "journal": "Journal of Advanced Transportation",
+                "pages": "6630876",
+                "doi": "10.1155/2021/6630876"
+            },
+            {
+                "year": 2021,
+                "authors": "Pawar, D. S., Yadav, A., Choudhary, P., Velaga, N.",
+                "title": "Modelling Work and Non-Work-Based Trip Patterns During Transition to Lockdown Period of COVID-19 Pandemic in India",
+                "journal": "Travel Behaviour and Society",
+                "volume": "24",
+                "pages": "45-56",
+                "doi": "10.1016/j.tbs.2021.02.002"
+            },
+            {
+                "year": 2021,
+                "authors": "Malaghan, V., Pawar, D. S.* and Dia, H.",
+                "title": "Exploring Maximum and Minimum Operating Speed Positions on Road Geometric Elements using Continuous Speed Data",
+                "journal": "Journal of Transportation Engineering, Part A: Systems",
+                "volume": "147(8)",
+                "pages": "04021039",
+                "doi": "10.1061/JTEPBS.0000539"
+            },
+            {
+                "year": 2021,
+                "authors": "Eregowda, T., Chatterjee, P. and Pawar, D. S.",
+                "title": "Impact of Lockdown Associated with COVID-19 on Air Quality and Emissions from Transportation Sector: Case Study in Selected Indian Metropolitan Cities",
+                "journal": "Environment Systems and Decisions",
+                "pages": "1-12",
+                "doi": "10.1007/s10669-021-09804-4"
+            },
+            {
+                "year": 2020,
+                "authors": "Pawar, D. S.*, Pathak, D., Patil, G. R.",
+                "title": "Modeling Dynamic Distribution of Dilemma Zone at Signalized Intersections for Developing World Traffic",
+                "journal": "Journal of Transportation Safety & Security",
+                "pages": "1-19",
+                "doi": "10.1080/19439962.2020.1852464"
+            },
+            {
+                "year": 2020,
+                "authors": "Pawar, D. S., Yadav, A., Akolekar, N., Velaga, N.",
+                "title": "Impact of Physical Distancing due to Novel Coronavirus (SARS-CoV-2) on Daily Travel for Work during Transition to Lockdown",
+                "journal": "Transportation Research Interdisciplinary Perspectives",
+                "volume": "7",
+                "pages": "100203",
+                "doi": "10.1016/j.trip.2020.100203"
+            },
+            {
+                "year": 2020,
+                "authors": "Choudhary, P., Pawar, N., Velaga, N., Pawar, D. S.",
+                "title": "Overall Performance Impairment and Crash Risk due to Distracted Driving: A Comprehensive Analysis using Structural Equation Modelling",
+                "journal": "Transportation Research Part F: Traffic Psychology and Behaviour",
+                "volume": "74",
+                "pages": "120-138",
+                "doi": "10.1016/j.trf.2020.08.018"
+            },
+            {
+                "year": 2020,
+                "authors": "Malaghan, V., Pawar, D. S.* and Dia, H.",
+                "title": "Speed Prediction Models for Heavy Passenger Vehicles on Rural Highways Based on an Instrumented Vehicle Study",
+                "journal": "Transportation Letters: the International Journal of Transportation Research",
+                "pages": "1-10",
+                "doi": "10.1080/19427867.2020.1811005"
+            },
+            {
+                "year": 2020,
+                "authors": "Malaghan, V., Pawar, D. S.* and Dia, H.",
+                "title": "Modeling Operating Speed Using Continuous Speed Profiles on Two-Lane Rural Highways in India",
+                "journal": "Journal of Transportation Engineering, Part A: Systems",
+                "volume": "146(11)",
+                "doi": "10.1061/JTEPBS.0000447"
+            },
+            {
+                "year": 2019,
+                "authors": "Pawar, D. S.* and Patil, G. R.",
+                "title": "Analyzing Variations in Spatial Critical Gaps at Two-way Stop Controlled Intersections Using Parametric and non-Parametric Techniques",
+                "journal": "Journal of Traffic and Transportation Engineering",
+                "volume": "8(1)",
+                "pages": "129-138",
+                "doi": "10.1016/j.jtte.2018.03.008"
+            },
+            {
+                "year": 2018,
+                "authors": "Pawar, D. S.* and Patil, G. R.",
+                "title": "Response of Major Road Drivers to Aggressive Maneuvering of the Minor Road Drivers at Unsignalized Intersections: A Driving Simulator Study",
+                "journal": "Transportation Research Part F: Psychology and Behaviour",
+                "volume": "52",
+                "pages": "164-175",
+                "doi": "10.1016/j.trf.2017.11.016"
+            },
+            {
+                "year": 2017,
+                "authors": "Nagalla, R., Pothuganti, P. and Pawar, D. S.*",
+                "title": "Analyzing Gap Acceptance Behavior at Unsignalized Intersections Using Support Vector Machines, Decision Tree and Random Forests",
+                "journal": "Procedia Computer Science",
+                "volume": "109",
+                "pages": "474-481",
+                "doi": "10.1016/j.procs.2017.05.312"
+            },
+            {
+                "year": 2017,
+                "authors": "Pawar, D. S.* and Patil, G. R.",
+                "title": "Minor-Street Vehicles Dilemma While Maneuvering Unsignalized Intersections",
+                "journal": "Journal of Transportation Engineering, Part A: Systems. ASCE",
+                "volume": "143(8)",
+                "doi": "10.1061/JTEPBS.0000066"
+            },
+            {
+                "year": 2016,
+                "authors": "Pawar, D. S.*, Kumar, V., Singh, N. and Patil, G. R.",
+                "title": "Analysis of Dilemma Zone for Pedestrians at High-Speed Uncontrolled Midblock Crossing",
+                "journal": "Transportation Research Part C",
+                "volume": "70",
+                "pages": "42-52",
+                "doi": "10.1016/j.trc.2016.04.012"
+            },
+            {
+                "year": 2016,
+                "authors": "Pawar, D. S. and Patil, G. R.",
+                "title": "Critical Gap Estimation for Pedestrians at Uncontrolled Mid-block Crossings on High-speed Arterials",
+                "journal": "Safety Science",
+                "volume": "86",
+                "pages": "295-303",
+                "doi": "10.1016/j.ssci.2016.03.011"
+            },
+            {
+                "year": 2015,
+                "authors": "Patil, G. R. and Pawar, D. S.",
+                "title": "Microscopic Analysis of Traffic Behavior at Uncontrolled Intersections in India",
+                "journal": "Transportation Letters: The International Journal of Transportation Research",
+                "volume": "8",
+                "pages": "158-166",
+                "doi": "10.1179/1942787515Y.0000000019"
+            },
+            {
+                "year": 2015,
+                "authors": "Pawar, D. S. and Patil, G. R.",
+                "title": "Pedestrian Temporal and Spatial Gap Acceptance at Mmid-block Street Crossing in Developing World",
+                "journal": "Journal of Safety Research",
+                "volume": "52",
+                "pages": "39-46",
+                "doi": "10.1016/j.jsr.2014.12.006"
+            },
+            {
+                "year": 2015,
+                "authors": "Pawar, D. S., Patil, G. R., Chandrasekharan, A. and Upadhyaya, S.",
+                "title": "Classification of Gaps at Uncontrolled Intersections and Midblock Crossings Using Support Vector Machines",
+                "journal": "Transportation Research Record: Journal of the Transportation Research Board",
+                "volume": "2515",
+                "pages": "26-33",
+                "doi": "10.3141/2515-04"
+            },
+            {
+                "year": 2014,
+                "authors": "Patil, G. R. and Pawar, D. S.",
+                "title": "Temporal and Spatial Gap Acceptance for Minor Road at Uncontrolled Intersections in India",
+                "journal": "Transportation Research Record: Journal of the Transportation Research Board",
+                "volume": "2461",
+                "pages": "129-136",
+                "doi": "10.3141/2461-16"
+            }
+        ],
+        "conferences": [
+            {
+                "year": 2024,
+                "authors": "Rachakonda, Y., and Pawar, D.S.*",
+                "title": "Analyzing Drivers Visual Performances towards Intersection Conflict Warning System: A Driving Simulator Study",
+                "conference": "103rd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2024,
+                "authors": "Singh, A., Srivastava, A., Pachamuthu, R. and Pawar, D. S.*",
+                "title": "Impact of Texting Induced Distraction on Driving Behavior, A Field Operation Test-Based Study",
+                "conference": "103rd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2024,
+                "authors": "Chandrashekar, C., Boruah, A., Chatterjee, P., and Pawar, D. S.*",
+                "title": "Real-World CO2 and NOx Emissions: Diesel vs Petrol Cars in India",
+                "conference": "103rd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2023,
+                "authors": "Sekar, N., Malaghan, V., and Pawar, D. S.*",
+                "title": "Safety Impact Assessment of Autonomous vehicles in Heterogeneous Traffic Conditions Using Microsimulation",
+                "conference": "102nd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2023,
+                "authors": "Yarlagadda, J., and Pawar, D. S.*",
+                "title": "Driving Performance Evaluation based on Driving Volatility Measures \u2013 A Case Study on Indian Drivers",
+                "conference": "MT-ITS 2023",
+                "location": "Nice"
+            },
+            {
+                "year": 2023,
+                "authors": "Malaghan, V., and Pawar, D. S.*",
+                "title": "The Influence of ADAS on Driving Performance and Driver Characteristics: A Systematic Literature Review",
+                "conference": "102nd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2023,
+                "authors": "Pothukuchi, S., and Pawar, D. S.*",
+                "title": "Modeling Lateral Acceleration on Ramp Curves for Consistency-Based Geometric design",
+                "conference": "102nd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2023,
+                "authors": "Akinapalli, P. K., Pawar, D. S.*, and Dia H.",
+                "title": "Classification of Motorized Two-Wheeler Riders' Deceleration Behavior Through Short-Term Naturalistic Riding Study",
+                "conference": "102nd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2023,
+                "authors": "Prajapati, D. K., Singh, A., Venthuruthiyil, S. P., and Pawar, D. S*",
+                "title": "Evaluating the Safety Impacts of Autonomous Vehicles Under Mixed Traffic Conditions",
+                "conference": "102nd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2022,
+                "authors": "Yarlagadda, J., and Pawar, D. S.*",
+                "title": "Driving Style Analysis of Car Drivers Using Real-Time Driving Data \u2013 An Unsupervised Approach",
+                "conference": "101st Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2022,
+                "authors": "Malaghan, V., and Pawar, D. S.*",
+                "title": "Investigating Comfort thresholds for Rural Highways in India: A Short-Term Naturalistic Driving Study",
+                "conference": "101st Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2022,
+                "authors": "Rachakonda, Y and Pawar, D. S.*",
+                "title": "A Review on Evaluation of Intersection Conflict Warning System at Rural Intersections",
+                "conference": "101st Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2021,
+                "authors": "Rachakonda, Y and Pawar, D. S.*",
+                "title": "Evaluation of Major Road Driver Response towards Intersection Conflict Warning System at an Uncontrolled Intersection",
+                "conference": "6th Conference of Transportation Research Group of India",
+                "location": "Tamil Nadu, India"
+            },
+            {
+                "year": 2021,
+                "authors": "Malaghan, V., and Pawar, D. S.*",
+                "title": "Modeling and Comparison of Operating Speed Prediction Models at Different Locations on the Horizontal Curves for Two-Lane Rural Highways",
+                "conference": "6th Conference of Transportation Research Group of India",
+                "location": "Tamil Nadu, India"
+            },
+            {
+                "year": 2021,
+                "authors": "Yarlagadda, J., and Pawar, D. S.*",
+                "title": "Identifying habitual driving styles of heavy passenger vehicle drivers using driving profile data",
+                "conference": "6th Conference of Transportation Research Group of India",
+                "location": "Tamil Nadu, India"
+            },
+            {
+                "year": 2021,
+                "authors": "Agrawal, P., Franklin, A., Pawar, D. S.* and Srijith, P. K.",
+                "title": "Traffic Incident Duration Prediction using BERT Representation of Text",
+                "conference": "IEEE 94th Vehicular Technology Conference (VTC2021-Fall)",
+                "location": "Virtual Conference"
+            },
+            {
+                "year": 2021,
+                "authors": "Malaghan, V., Pawar, D. S.*, and Dia, H.",
+                "title": "Analysis of Speed Positions on Horizontal Curves for Two-Lane Rural Highways",
+                "conference": "14th International Conference of Eastern Asia Society for Transportation Studies (EASTS)",
+                "location": "Hiroshima, Japan"
+            },
+            {
+                "year": 2021,
+                "authors": "Yarlagadda, J., and Pawar, D. S.*",
+                "title": "Driving Style Analysis of Car Drivers Using Real-Time Driving Data \u2013 An Unsupervised Approach",
+                "conference": "14th International Conference of Eastern Asia Society for Transportation Studies (EASTS)",
+                "location": "Hiroshima, Japan"
+            },
+            {
+                "year": 2021,
+                "authors": "Akinapalli, P. K., and Pawar, D. S.*",
+                "title": "Evaluation of Brake Reaction Time and Evasive Action Performance of Motorized Two-Wheeler Riders towards Jaywalking through Mock-Up Control Studies",
+                "conference": "100th Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2020,
+                "authors": "S S Magdum, A Franklin, B R Tamma, Pawar, D. S.*",
+                "title": "SafeNav: A Cooperative V2X System using Cellular and 802.11 p based Radios opportunistically for Safe Navigation",
+                "conference": "2020 IEEE 23rd International Conference on Intelligent Transportation Systems (ITSC)",
+                "location": "Greece"
+            },
+            {
+                "year": 2019,
+                "authors": "Akinapalli, P. K., and Pawar, D. S.*",
+                "title": "Effect of driver behaviour parameters on vehicular conflicts at unsignalised intersections using micro-simulation",
+                "conference": "13th International Conference of Eastern Asia Society for Transportation Studies",
+                "location": "Colombo, Sri Lanka"
+            },
+            {
+                "year": 2019,
+                "authors": "Malaghan, V. D., and Pawar, D. S.*",
+                "title": "Operating speed differential model for heavy vehicles using naturalistic driving data",
+                "conference": "15th World Conference on Transportation Research (WCTR)",
+                "location": "Mumbai, India"
+            },
+            {
+                "year": 2019,
+                "authors": "Akinapalli, P. K., and Pawar, D. S.*",
+                "title": "Conflict Severity Estimation of Uncontrolled Intersections using Surrogate Safety Measures",
+                "conference": "15th World Conference on Transportation Research (WCTR)",
+                "location": "Mumbai, India"
+            },
+            {
+                "year": 2019,
+                "authors": "Yarlagadda, J., and Pawar, D. S.*",
+                "title": "Analysis of naturalistic driving behavior under heterogeneous traffic conditions in India",
+                "conference": "15th World Conference on Transportation Research (WCTR)",
+                "location": "Mumbai, India"
+            },
+            {
+                "year": 2017,
+                "authors": "Pawar, D.S.",
+                "title": "Brake response time of drivers to the conflicting movements: a driving simulator study",
+                "conference": "International Conference on Recent Advances in Civil and Environmental Engineering (RACEE2017)",
+                "location": "Sangli, India"
+            },
+            {
+                "year": 2016,
+                "authors": "Pawar, D.S., and Patil, G. R.",
+                "title": "Factors affecting drivers gap acceptance behaviour at uncontrolled intrsections in India",
+                "conference": "14th World Conference on Transportation Research (WCTR)",
+                "location": "Shanghai, China"
+            },
+            {
+                "year": 2016,
+                "authors": "Pawar, D.S., and Patil, G. R.",
+                "title": "Dilemma of pedestrians during gap acceptance at uncontrolled mid-block crossings",
+                "conference": "14th World Conference on Transportation Research (WCTR)",
+                "location": "Shanghai, China"
+            },
+            {
+                "year": 2015,
+                "authors": "Pawar, D., Patil, G. R., Chandrasekharan, A., and Upadhyaya, S.",
+                "title": "Classification of gaps at uncontrolled intersections and midblock crossings using Support Vector Machines",
+                "conference": "94th Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2015,
+                "authors": "Pawar, D., Patil, G. R.",
+                "title": "Exploring Pedestrian Temporal and Spatial Critical Gaps at Uncontrolled Midblock Crossings in India",
+                "conference": "94th Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2014,
+                "authors": "Patil, G. R., and Pawar, D.S.",
+                "title": "Temporal and spatial gap acceptance for minor road at uncontrolled interesections in india",
+                "conference": "93rd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2014,
+                "authors": "Pawar, D.S., Kumar, V., Singh, N., and Patil, G. R.",
+                "title": "Analysis of dilemma zone for crossing pedestrians at uncontrolled midbolck sections",
+                "conference": "93rd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2014,
+                "authors": "Pawar, D.S., and Patil, G. R.",
+                "title": "Pedestrian Temporal and Spatial Gap Acceptance at Uncontrolled Marked Mid-Block Street Crossing in India",
+                "conference": "14th COTA International Conference of Transportation Professionals (CICTP2014)",
+                "location": "Changsha, China"
+            },
+            {
+                "year": 2013,
+                "authors": "Pawar, D.S., and Patil, G. R.",
+                "title": "Microscopic analysis of traffic behavior at uncontrolled intersections in India",
+                "conference": "92nd Transportation Research Board Annual Meeting",
+                "location": "Washington D.C."
+            },
+            {
+                "year": 2013,
+                "authors": "Sardar, H., Pawar, D., and Patil, G. R.",
+                "title": "Accident Forecast of Mumbai City",
+                "conference": "Recent Advances in Civil Engineering RACE2013",
+                "location": "Belgaum, India"
+            },
+            {
+                "year": 2012,
+                "authors": "Pawar, D.S., and Patil, G. R.",
+                "title": "Micro-level traffic accident analysis at uncontrolled intersections",
+                "conference": "10th Conference of Transportation planning and implementation methodologies for developing countries (TPMDC)",
+                "location": "Mumbai, India"
+            },
+            {
+                "year": 2011,
+                "authors": "Pawar, D. S., and Patil, G. R.",
+                "title": "System level traffic accident analysis and developing GIS based decision support for Mumbai city",
+                "conference": "1st Conference of Transportation Research Group of India (CTRG)",
+                "location": "Bangalore, India"
+            }
+        ],
+        "invitedTalks": [
+            {
+                "year": 2022,
+                "title": "ITS for improving driver safety at the intersections: challenges and lessons learned",
+                "event": "Online Conclave on Dynamics of Intelligent Transport System in Urban Region: Scope and Challenges",
+                "institution": "NIT Rourkela"
+            },
+            {
+                "year": 2021,
+                "title": "Sustainable Practices of Transportation Technologies: Case Studies in the world",
+                "event": "11th Annual National Workshop on Sustainable Technologies in Civil Engineering: Perspectives and Strategies (STEPS-2021)",
+                "institution": "GRIET, Hyderabad"
+            },
+            {
+                "year": 2021,
+                "title": "Modelling and Prediction for ITS to Enhance Driver Safety at Unsignalized Intersection",
+                "event": "Short-term Course on Data Analytics and Predictive Technology for Intelligent Transportation Systems",
+                "institution": "IIT BHU"
+            },
+            {
+                "year": 2020,
+                "title": "Sustainable Practices of Transportation Technologies: Case Studies in the world",
+                "event": "10th Annual National Workshop on Sustainable Technologies in Civil Engineering: Perspectives and Strategies (STEPS-2020)",
+                "institution": "GRIET, Hyderabad"
+            },
+            {
+                "year": 2020,
+                "title": "Intelligent Transportation Systems to Enhance Driver Safety at Unsignalized Intersection",
+                "event": "Guest Lecture",
+                "institution": "G.H. Raisoni Academy of Engineering and Technology, Nagpur"
+            },
+            {
+                "year": 2020,
+                "title": "Traffic Education for Imparting Instructions in Driving of Motor Vehicles",
+                "event": "Training Session",
+                "institution": "Motor Vehicles Department, Government of Maharashtra"
+            },
+            {
+                "year": 2020,
+                "title": "Instrumented and Naturalistic Vehicle Studies for Driver Behavior Analysis and Highway Geometric Design",
+                "event": "Transportation Research Group of India (TRG) Webinar Series",
+                "institution": "TRG India"
+            },
+            {
+                "year": 2020,
+                "title": "Using Gap Acceptance Analysis for Developing Conflcit Warning Systems",
+                "event": "Faculty Development Programme on \u201cAdvances in Civil & Structural Engineering\u201d",
+                "institution": "Gov. College of Engineering Nagpur"
+            },
+            {
+                "year": 2020,
+                "title": "Traffic Engineering for Driver Training Schools",
+                "event": "Organised by Motor Vehicles Department",
+                "institution": "Government of Maharashtra"
+            },
+            {
+                "year": 2020,
+                "title": "Conflict Early Warning System for Uncontrolled Intersections Based on the Active Safety Concept",
+                "event": "Guest Lecture",
+                "institution": "Gokaraju Rangaraju Institute of Engineering and Technology, Hyderabad"
+            },
+            {
+                "year": 2020,
+                "title": "ITS Application Examples and Demonstration Experiment in INDIA",
+                "event": "Workshop on survey research for deploying JAPAN's V2X technology abroad",
+                "institution": "Delhi, India"
+            },
+            {
+                "year": 2019,
+                "title": "ITS for Traffic Operations and Incident Management",
+                "event": "Two Day National Workshop on Road Safety Engineering",
+                "institution": "M.V.S.R Engineering College, Hyderabad"
+            },
+            {
+                "year": 2019,
+                "title": "Road User Safety",
+                "event": "Guest Lecture",
+                "institution": "Basaveshwar Engineering College, Bagalkot"
+            },
+            {
+                "year": 2018,
+                "title": "Intelligent Transportation Systems",
+                "event": "Guest Lecture",
+                "institution": "SECAB institute of Engineering & Technology, Bagalkot"
+            },
+            {
+                "year": 2018,
+                "title": "Road Accident Data Analysis and Management System",
+                "event": "SP1/2 Asian Traffic Accident Analysis & System Discussion Meeting",
+                "institution": "TOYOTA InfoTechnology Center, Tokyo"
+            },
+            {
+                "year": 2018,
+                "title": "Simulators for Driving Safety Study",
+                "event": "Workshop on Sustainable aspects of Geotechnical and Transportation Engineering",
+                "institution": "Mahendra Ecole Centrale, Hyderabad"
+            },
+            {
+                "year": 2018,
+                "title": "ITS for Developing World Traffic",
+                "event": "Part of STSI Fundamentals in basic courses",
+                "institution": "Hokkaido University, Japan"
+            },
+            {
+                "year": 2017,
+                "title": "Accident and Road Safety Management in India",
+                "event": "10th International Annual Conference on Transportation for a Better Life",
+                "institution": "Bangkok, Thailand"
+            },
+            {
+                "year": 2017,
+                "title": "Capacity and LOS of Transport Facilities",
+                "event": "CEP - QIP short term course on Advances in Transportation Planning and Traffic Management",
+                "institution": "IIT Bombay"
+            },
+            {
+                "year": 2017,
+                "title": "Modeling Driver Interactions at Rural and Urban Unsignalized Intersections",
+                "event": "Guest Lecture",
+                "institution": "Nihon University, Tokyo"
+            },
+            {
+                "year": 2017,
+                "title": "Mapping Traffic Accident Data and Developing GIS Based Decision Support System",
+                "event": "Vizag Urban Observatory to monitor Sustainable Development Goals (SDGs)",
+                "institution": "Visakhapatnam, Andhra Pradesh"
+            },
+            {
+                "year": 2017,
+                "title": "Brake Response Time of Drivers to the Conflicting Movements: A Driving Simulator Study",
+                "event": "International Conference on Recent Advances in Civil and Environmental Engineering",
+                "institution": "Sangli, Maharashtra"
+            }
+        ]
+    },
+    "gallery": {
+        "professional": [
+            {
+                "src": "/uploads/gallery/P1.jpeg",
+                "caption": "Presenting research at international conference"
+            },
+            {
+                "src": "/uploads/gallery/P2.jpeg",
+                "caption": "Keynote speech on transportation engineering"
+            },
+            {
+                "src": "/uploads/gallery/P3.jpeg",
+                "caption": "Workshop on smart traffic management systems"
+            },
+            {
+                "src": "/uploads/gallery/P4.jpeg",
+                "caption": "Team collaboration session with PhD students"
+            },
+            {
+                "src": "/uploads/gallery/P5.jpeg",
+                "caption": "Airport engineering project review meeting"
+            },
+            {
+                "src": "/uploads/gallery/P6.jpeg",
+                "caption": "Guest lecture at premier engineering institute"
+            },
+            {
+                "src": "/uploads/gallery/P7.jpeg",
+                "caption": "Field study - Traffic flow optimization"
+            },
+            {
+                "src": "/uploads/gallery/P8.jpeg",
+                "caption": "Consulting with industry partners on ITS"
+            },
+            {
+                "src": "/uploads/gallery/P9.jpeg",
+                "caption": "Award ceremony for research excellence"
+            },
+            {
+                "src": "/uploads/gallery/P10.jpeg",
+                "caption": "Paper presentation at IEEE conference"
+            },
+            {
+                "src": "/uploads/gallery/P11.png",
+                "caption": "Leading Civil Engineering Department seminar"
+            },
+            {
+                "src": "/uploads/gallery/P12.jpeg",
+                "caption": "Sustainable transportation research discussion"
+            },
+            {
+                "src": "/uploads/gallery/p13.jpeg",
+                "caption": "PhD guidance committee meeting"
+            },
+            {
+                "src": "/uploads/gallery/P14.jpeg",
+                "caption": "Infrastructure planning workshop"
+            },
+            {
+                "src": "/uploads/gallery/P20.jpg",
+                "caption": "IIT Hyderabad faculty research symposium"
+            },
+            {
+                "src": "/uploads/gallery/698a415c2c16a.png",
+                "caption": "Advanced traffic simulation project demo"
+            },
+            {
+                "src": "/uploads/gallery/img_699b37daa12403.49980195.png",
+                "caption": "helllo"
+            },
+            {
+                "src": "/uploads/gallery/img_699b47c7868b11.36684988.png",
+                "caption": "hello"
+            },
+            {
+                "src": "/uploads/gallery/img_699be7d03b7299.70534544.png",
+                "caption": "sss"
+            }
+        ],
+        "hobbies": [
+            {
+                "src": "/uploads/gallery/h1-min.jpeg",
+                "caption": "Mountain trekking adventure"
+            },
+            {
+                "src": "/uploads/gallery/h7-min.jpeg",
+                "caption": "Sunrise photography session"
+            },
+            {
+                "src": "/uploads/gallery/h10-min.jpeg",
+                "caption": "Weekend cycling through scenic trails"
+            },
+            {
+                "src": "/uploads/gallery/h12-min.jpeg",
+                "caption": "Exploring hidden waterfalls"
+            },
+            {
+                "src": "/uploads/gallery/6994c9b8004a5.png",
+                "caption": "hi there iith logo"
+            }
+        ],
+        "life": [
+            {
+                "src": "/uploads/gallery/L1-min.jpeg",
+                "caption": "Family celebration moments"
+            },
+            {
+                "src": "/uploads/gallery/L3-min.jpeg",
+                "caption": "Festival festivities with loved ones"
+            },
+            {
+                "src": "/uploads/gallery/L4-min.jpeg",
+                "caption": "Travel memories from research trips"
+            },
+            {
+                "src": "/uploads/gallery/L6.jpeg",
+                "caption": "Life's simple joys and celebrations"
+            }
+        ]
+    },
+    "other": {
+        "forms": [
+            {
+                "name": "Road Accident Report Form (OLD)",
+                "link": "/uploads/forms/road-accident-report-old.pdf"
+            },
+            {
+                "name": "Road Accident Report Form (NEW)",
+                "link": "/uploads/forms/road-accident-report-new.pdf"
+            },
+            {
+                "name": "Driver Survey Form",
+                "link": "/uploads/forms/driver-survey-form.pdf"
+            },
+            {
+                "name": "Internship Application Form",
+                "link": "/uploads/forms/internship-form.pdf"
+            },
+            {
+                "name": "Leave Form (For Ph.D. Students)",
+                "link": "/uploads/forms/phd-leave-form.pdf"
+            }
+        ],
+        "news": [
+            "Researchers at IIT Hyderabad study changes in travel patterns during and after the COVID-19 pandemic",
+            "Advanced accident information analysis system developed at IIT Hyderabad",
+            "IIT Hyderabad launches M2Smart testbed for low-carbon and intelligent transportation research",
+            "Recent studies highlight the rising trend of road accidents in India and the need for ITS solutions"
+        ]
+    }
+}
