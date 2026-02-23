@@ -61,7 +61,7 @@ const TeachingPanel = ({ teaching }) => (
 );
 
 // RESEARCH PANEL
-const API_BASE = "https://digvijay.xo.je";
+const API_BASE = "";
 
 const ResearchPanel = ({ research }) => {
   const { interests, projects, phdStudents } = research;

@@ -3,7 +3,7 @@ import useContent from "../hooks/useContent";
 import "./Admin.css";
 
 // 👇 UPDATE THIS TO YOUR BACKEND PORT
-const API_BASE_URL = "https://digvijay.xo.je/api";
+const API_BASE_URL = "/api";
 
 // Compress image client-side before upload (keeps under PHP 2MB limit)
 const compressImage = (file, maxWidth = 1600, quality = 0.85) =>

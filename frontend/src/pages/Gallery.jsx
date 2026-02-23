@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import useContent from "../hooks/useContent";
 import "./Gallery.css";
 
-const API_BASE = "https://digvijay.xo.je";
+const API_BASE = "";
 
 function getTheme() {
   const h = new Date().getHours();

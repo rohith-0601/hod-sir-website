@@ -4,7 +4,7 @@ import ProfileTabs from "../components/ProfileTabs";
 import "./Home.css";
 import "./Research.css";
 
-const API_BASE = "https://digvijay.xo.je";
+const API_BASE = "";
 
 function getTheme() {
   const h = new Date().getHours();
